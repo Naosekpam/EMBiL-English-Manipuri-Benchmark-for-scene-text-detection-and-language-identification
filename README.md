@@ -1,5 +1,5 @@
 # EMBiL-Dataset
-A curated bi-lingual scene text detection and language identification benchmark dataset, EMBiL, comprises English and Manipuri texts embedded in the scene images. The paper is accepted at CAIP ' 23 to be held at Limassol Cyprus in the month of September.
+A curated bi-lingual scene text detection and language identification benchmark dataset, EMBiL, comprises English and Manipuri (Meitei Mayek / Meetei Mayek) texts embedded in the scene images. The paper is accepted at CAIP ' 23, to be held at Limassol, Cyprus, in September.
 
 The Manipuri language (called "Meetei Mayek") is one of India's scheduled recognized languages. Statistically, this language is used by only 0.15% (3.6 million out of 1.4 billion) of the country's (India) total demography. 
 
