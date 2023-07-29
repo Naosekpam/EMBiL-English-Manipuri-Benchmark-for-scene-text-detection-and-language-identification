@@ -9,4 +9,4 @@ and history differences, scene text images in Manipur have distinctive features 
 We describe the diversity of EMBiL in three levels: : (1) Image-level diversity;
 (2) Scene-level diversity, and 3) Text instance-level diversity. 
 
-EMBiL contains bi-lingual text images with a total of 720 images. It is divided into a 70% train set, 20% validation, and 10% test set.![EMBiL_samples](https://github.com/Naosekpam/EMBiL-Dataset-/assets/46924277/80120a25-be89-49fa-8c78-a6e60ac6f76b)
+EMBiL contains bi-lingual text images with a total of 720 images. It is divided into a 70% train set, 20% validation, and 10% test set.
