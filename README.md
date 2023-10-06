@@ -24,6 +24,7 @@ EMBiL contains bi-lingual text images with a total of 720 images. It is divided 
   year={2023}, <br />
   organization={Springer} <br />
 }
-or
+<br />
+or <br />
 
-Naosekpam, Veronica, et al. "EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification." International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
+Naosekpam, Veronica, and Nilkanta Sahu. "Multi-label Indian scene text language identification." Intelligent Systems and Applications in Computer Vision (2023).
