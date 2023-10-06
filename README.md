@@ -12,15 +12,18 @@ We describe the diversity of EMBiL in three levels: : (1) Image-level diversity;
 EMBiL contains bi-lingual text images with a total of 720 images. It is divided into a 70% train set, 20% validation, and 10% test set.
 ![EMBiL_samples](https://github.com/Naosekpam/EMBiL-Dataset/assets/46924277/2ac2c5dc-c2b9-4f44-ba0e-c354e11e9e6b)
 
-Please cite the work if used :
-Naosekpam, Veronica, et al. "EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification." International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
 
-@inproceedings{naosekpam2023embil,
-  title={EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification},
-  author={Naosekpam, Veronica and Islam, Mushtaq and Chourasia, Amul and Sahu, Nilkanta},
-  booktitle={International Conference on Computer Analysis of Images and Patterns},
-  pages={65--75},
-  year={2023},
-  organization={Springer}
+### Please cite the following papers if code or part of the code is used :
+
+
+@inproceedings{naosekpam2023embil, <br />
+  title={EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification}, <br />
+  author={Naosekpam, Veronica and Islam, Mushtaq and Chourasia, Amul and Sahu, Nilkanta}, <br />
+  booktitle={International Conference on Computer Analysis of Images and Patterns}, <br />
+  pages={65--75}, <br />
+  year={2023}, <br />
+  organization={Springer} <br />
 }
+or
 
+Naosekpam, Veronica, et al. "EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification." International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
