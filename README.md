@@ -16,16 +16,15 @@ Mail at veronica.naosekpam@iiitg.ac.in for the complete dataset.
 
 ### Please cite the following papers if code or part of the code is used :
 
-
-@inproceedings{naosekpam2023embil, <br />
-  title={EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification}, <br />
-  author={Naosekpam, Veronica and Islam, Mushtaq and Chourasia, Amul and Sahu, Nilkanta}, <br />
-  booktitle={International Conference on Computer Analysis of Images and Patterns}, <br />
-  pages={65--75}, <br />
-  year={2023}, <br />
-  organization={Springer} <br />
+```
+@inproceedings{naosekpam2023embil, 
+  title={EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification}, 
+  author={Naosekpam, Veronica and Islam, Mushtaq and Chourasia, Amul and Sahu, Nilkanta}, 
+  booktitle={International Conference on Computer Analysis of Images and Patterns},
+  pages={65--75},
+  year={2023}, 
+  organization={Springer} 
 }
-<br />
-or <br />
+```
 
 Naosekpam, Veronica, and Nilkanta Sahu. "Multi-label Indian scene text language identification." Intelligent Systems and Applications in Computer Vision (2023).
